@@ -1,0 +1,7 @@
+C:\2024-Azure-V2\Projects\AZ-WebApps\oct19normalapp\learnapp\bin\Publish\learnapp.exe
+C:\2024-Azure-V2\Projects\AZ-WebApps\oct19normalapp\learnapp\bin\Publish\appsettings.Development.json
+C:\2024-Azure-V2\Projects\AZ-WebApps\oct19normalapp\learnapp\bin\Publish\appsettings.json
+C:\2024-Azure-V2\Projects\AZ-WebApps\oct19normalapp\learnapp\bin\Publish\learnapp.dll
+C:\2024-Azure-V2\Projects\AZ-WebApps\oct19normalapp\learnapp\bin\Publish\learnapp.deps.json
+C:\2024-Azure-V2\Projects\AZ-WebApps\oct19normalapp\learnapp\bin\Publish\learnapp.runtimeconfig.json
+C:\2024-Azure-V2\Projects\AZ-WebApps\oct19normalapp\learnapp\bin\Publish\learnapp.pdb
